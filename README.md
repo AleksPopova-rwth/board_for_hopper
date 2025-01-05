@@ -19,6 +19,8 @@ The Hopper project is a student-led initiative aimed at developing cutting-edge 
    ```
 2. Open the PCB design files in Altium Designer or your preferred PCB design tool.
 3. Refer to the documentation for hardware setup and testing instructions.
+
+
 ![board_for_hopper](./board_for_hopper.jpg)
 ## Contact
 
