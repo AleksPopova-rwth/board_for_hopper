@@ -25,3 +25,4 @@ The Hopper project is a student-led initiative aimed at developing cutting-edge 
 For questions or support, please reach out to **Aleksandra Popova** at [aleksandra.popova@rwth-aachen.de](mailto:aleksandra.popova@rwth-aachen.de).
 
 ---
+![board_for_hopper](.jpg)
