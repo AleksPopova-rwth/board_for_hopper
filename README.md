@@ -1,5 +1,3 @@
-Here’s a sample README file for the repository based on the page you referenced:
-
 ---
 
 # Board for Hopper
@@ -12,20 +10,6 @@ The Hopper project is a student-led initiative aimed at developing cutting-edge 
 
 - PCB schematics and layouts
 - Design files compatible with Altium Designer
-- Documentation and resources for hardware testing and debugging
-
-## Features
-
-- **CAN Bus Support:** Implements TCAN3414 transceivers for reliable communication.
-- **High-Speed Signal Integrity:** Differential pair design optimized for 90-ohm impedance.
-- **Modularity:** Designed to accommodate additional subsystems.
-- **Compact Layout:** Space-efficient design tailored for Hopper's needs.
-
-## Repository Structure
-
-- **/PCB_Files:** Contains Altium design files, including schematics and PCB layouts.
-- **/Documentation:** Manuals and usage guides.
-- **/Test_Scripts:** Scripts for hardware testing and verification.
 
 ## Getting Started
 
@@ -48,14 +32,9 @@ We welcome contributions to improve the board design and functionality. Please f
 3. Commit your changes and push them to your fork.
 4. Create a pull request explaining your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
 For questions or support, please reach out to **Aleksandra Popova** at [aleksandra.popova@rwth-aachen.de](mailto:aleksandra.popova@rwth-aachen.de).
 
 ---
-
-Would you like any additional details or customization?
