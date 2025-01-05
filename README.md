@@ -20,19 +20,6 @@ The Hopper project is a student-led initiative aimed at developing cutting-edge 
 2. Open the PCB design files in Altium Designer or your preferred PCB design tool.
 3. Refer to the documentation for hardware setup and testing instructions.
 
-## Contribution Guidelines
-
-We welcome contributions to improve the board design and functionality. Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push them to your fork.
-4. Create a pull request explaining your changes.
-
-
 ## Contact
 
 For questions or support, please reach out to **Aleksandra Popova** at [aleksandra.popova@rwth-aachen.de](mailto:aleksandra.popova@rwth-aachen.de).
